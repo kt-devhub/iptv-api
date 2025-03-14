@@ -2,11 +2,8 @@
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 
 📺央视1-3,#genre#
-CCTV-1,http://39.170.52.236:808/hls/1/index.m3u8
 CCTV-1,http://58.243.224.244:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-2,http://39.170.52.236:808/hls/2/index.m3u8
 CCTV-2,http://58.243.224.244:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-3,http://39.170.52.236:808/hls/3/index.m3u8
 
 📡卫视,#genre#
 湖南卫视,http://58.243.224.244:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -16,14 +13,8 @@ CCTV-3,http://39.170.52.236:808/hls/3/index.m3u8
 广东卫视,http://58.243.224.244:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=0&authid=0
 
 📺央视5-14,#genre#
-CCTV-5,http://39.170.52.236:808/hls/5/index.m3u8
-CCTV-6,http://110.52.99.109:9901/tsfile/live/faacts/1005_1.m3u8
-CCTV-6,http://39.170.52.236:808/hls/6/index.m3u8
-CCTV-8,http://39.170.52.236:808/hls/8/index.m3u8
-CCTV-9,http://39.170.52.236:808/hls/9/index.m3u8
 CCTV-9,http://58.243.224.244:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-13,http://39.170.52.236:808/hls/13/index.m3u8
 CCTV-14,http://58.243.224.244:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 
 🕘️更新时间,#genre#
-2025-03-13 18:20:53,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
+2025-03-14 18:20:15,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
