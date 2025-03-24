@@ -103,6 +103,7 @@ CCTV-3,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225647/2
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 翡翠台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jade_twn/playlist.m3u8
 翡翠台,http://fm1077.serv00.net/Smart.php?id=jade_twn
+明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
@@ -117,7 +118,7 @@ CCTV-3,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225647/2
 凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰资讯,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
-凤凰资讯,http://122.117.71.103:8573/http/61.222.53.250:8078/hls/20/80/phoenixif.m3u8
+凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 
 📺央视5-14,#genre#
 CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
@@ -182,4 +183,4 @@ CCTV-14,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 CCTV-14,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225639/2/index.m3u8
 
 🕘️更新时间,#genre#
-2025-03-23 18:17:16,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-03-24 18:18:01,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
