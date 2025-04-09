@@ -1,8 +1,8 @@
-name: 'Update schedule'
+name: "Update schedule"
 
 on:
   schedule:
-    - cron: '0 22,10 * * *'
+    - cron: "0 22 * * *"
   workflow_dispatch:
     branches:
       - master
@@ -14,7 +14,7 @@ jobs:
     timeout-minutes: 120
     strategy:
       matrix:
-        operating-system: [ 'ubuntu-20.04' ]
+        operating-system: ["ubuntu-20.04"]
     steps:
       - name: Set branch name
         id: vars
@@ -25,9 +25,9 @@ jobs:
       - name: Run with setup-python 3.13
         uses: actions/setup-python@v4
         with:
-          python-version: '3.13'
+          python-version: "3.13"
           update-environment: true
-          cache: 'pipenv'
+          cache: "pipenv"
       - name: Check open_driver config
         id: check_driver
         run: |
