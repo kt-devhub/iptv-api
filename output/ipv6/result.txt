@@ -182,4 +182,4 @@ CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=eaad08d0bfccf8c4382
 CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=a524f186491d617f073f70bc3705930111d4dc0b308c5ea99c6a15b2fdcccdef5d5852383ce8bf7fd55d318d6dfa7f77f8669f65e9f67c5379935ed909f12926cfb0fcd55a661fee398ebd61ad
 
 🕘️更新时间,#genre#
-2025-05-17 06:05:53,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-05-18 06:06:16,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
