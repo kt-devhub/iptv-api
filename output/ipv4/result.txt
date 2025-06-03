@@ -1,10 +1,9 @@
 📺央视1-3,#genre#
-CCTV-3,http://1b6467f415.iok.la:9931/tsfile/live/1022_1.m3u8
 
 📡卫视,#genre#
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://58.57.40.22:9901/tsfile/live/1029_1.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
@@ -19,4 +18,4 @@ CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 
 🕘️更新时间,#genre#
-2025-06-02 18:05:21,http://1b6467f415.iok.la:9931/tsfile/live/1022_1.m3u8
+2025-06-03 18:05:29,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
