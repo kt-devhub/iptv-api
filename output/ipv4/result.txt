@@ -3,28 +3,29 @@ CCTV-3,http://nas.hssvm.com:8888/udp/225.1.1.158:5002
 
 📡卫视,#genre#
 湖南卫视,http://119.32.12.17:2901/udp/224.1.100.98:11111
-浙江卫视,http://8.138.7.223/tv/zjws.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://8.138.7.223/tv/zjws.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://112.46.85.60:8009/hls/34/index.m3u8
 东方卫视,http://omnix.cn:4000/udp/225.1.8.45:8032
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 重庆卫视,http://119.32.12.17:2901/udp/224.1.100.102:11111
+重庆卫视,http://111.61.236.247:9081/hls/41/index.m3u8
 
 🌊本地,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 
 📺央视其他,#genre#
+CCTV-5,http://120.76.248.139/live/bfgd/4200000064.m3u8
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
-CCTV-6,http://36.105.100.208:35455/gaoma/cctv6.m3u8
 CCTV-8,http://119.32.12.17:2901/udp/224.1.100.86:11111
 CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
-CCTV-9,http://36.105.100.208:35455/gaoma/cctv9.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13,http://119.32.12.17:2901/udp/224.1.100.69:11111
 
 🕘️更新时间,#genre#
-2025-06-12 18:06:40,http://nas.hssvm.com:8888/udp/225.1.1.158:5002
+2025-06-13 18:07:27,http://nas.hssvm.com:8888/udp/225.1.1.158:5002
