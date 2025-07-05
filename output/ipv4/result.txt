@@ -12,11 +12,7 @@
 
 📺央视其他,#genre#
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
-CCTV-8,http://116.128.242.83:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8,http://36.105.100.208:35455/gaoma/cctv8k_36m.m3u8
-CCTV-9,http://123.129.70.178:9901/tsfile/live/0009_1.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-CCTV-13,http://58.19.43.46:9901/tsfile/live/1032_1.m3u8
 
 🕘️更新时间,#genre#
-2025-07-04 18:06:09,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
+2025-07-05 18:04:39,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
