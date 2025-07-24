@@ -2,7 +2,7 @@
 CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 
 📡卫视,#genre#
-湖南卫视,http://nas.hssvm.com:8888/udp/225.1.1.114:5002
+广西卫视,http://222.134.245.16:9901/tsfile/live/0113_1.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
@@ -18,4 +18,4 @@ CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-9,http://omnix.cn:4000/udp/225.1.8.9:8112
 
 🕘️更新时间,#genre#
-2025-07-23 18:05:49,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
+2025-07-24 18:05:24,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
