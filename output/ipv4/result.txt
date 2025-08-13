@@ -2,10 +2,15 @@
 CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 
 📡卫视,#genre#
+广西卫视,http://221.193.168.243:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://nas.hssvm.com:8888/udp/225.1.2.81:5002
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 重庆卫视,http://drive.mxmy.net:8888/udp/239.3.1.122:8160
+重庆卫视,http://221.193.168.209:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://221.193.168.243:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://115.48.161.155:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🌊本地,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
@@ -16,4 +21,4 @@ CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-9,http://omnix.cn:4000/udp/225.1.8.9:8112
 
 🕘️更新时间,#genre#
-2025-08-12 18:05:24,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
+2025-08-13 18:06:06,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
