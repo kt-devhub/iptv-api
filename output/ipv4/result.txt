@@ -8,14 +8,16 @@ CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 广东卫视,http://nas.hssvm.com:8888/udp/225.1.1.116:5002
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 重庆卫视,http://drive.mxmy.net:8888/udp/239.3.1.122:8160
+重庆卫视,http://123.129.70.178:9901/tsfile/live/0142_1.m3u8
 
 🌊本地,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 
 📺央视其他,#genre#
+CCTV-5,http://61.156.228.12:8154/tsfile/live/0005_1.m3u8
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-9,http://omnix.cn:4000/udp/225.1.8.9:8112
 
 🕘️更新时间,#genre#
-2025-08-20 18:05:21,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
+2025-08-21 18:05:24,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
