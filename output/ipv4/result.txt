@@ -1,5 +1,4 @@
 📺央视1-3,#genre#
-CCTV-3,http://ha.wheel.duolebo.com/live.m3u8?p=bea7cd5b-d4cd-4d5f-9408-eb6df9ce08f3&c=1857461344&m3u8=true
 
 📡卫视,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
@@ -11,4 +10,4 @@ CCTV-3,http://ha.wheel.duolebo.com/live.m3u8?p=bea7cd5b-d4cd-4d5f-9408-eb6df9ce0
 📺央视其他,#genre#
 
 🕘️更新时间,#genre#
-2025-09-28 18:05:44,http://ha.wheel.duolebo.com/live.m3u8?p=bea7cd5b-d4cd-4d5f-9408-eb6df9ce08f3&c=1857461344&m3u8=true
+2025-09-29 18:06:27,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
