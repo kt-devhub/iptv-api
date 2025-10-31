@@ -10,4 +10,4 @@
 📺央视其他,#genre#
 
 🕘️更新时间,#genre#
-2025-10-30 18:06:33,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+2025-10-31 18:05:28,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
