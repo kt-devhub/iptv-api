@@ -3,7 +3,6 @@
 📡卫视,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://112.123.243.37:50085/tsfile/live/0127_1.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 
 🌊本地,#genre#
@@ -12,4 +11,4 @@
 📺央视其他,#genre#
 
 🕘️更新时间,#genre#
-2025-11-28 18:05:31,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+2025-11-29 18:04:53,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
