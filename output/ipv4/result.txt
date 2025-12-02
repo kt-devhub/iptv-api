@@ -4,7 +4,6 @@
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-广东卫视,http://112.123.243.37:50085/tsfile/live/0135_1.m3u8
 
 🌊本地,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
@@ -12,4 +11,4 @@
 📺央视其他,#genre#
 
 🕘️更新时间,#genre#
-2025-12-01 18:05:39,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+2025-12-02 18:05:22,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
