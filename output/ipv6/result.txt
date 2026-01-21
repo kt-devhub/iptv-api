@@ -179,4 +179,4 @@ CCTV-14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 🕘️更新时间,#genre#
-2026-01-20 18:07:25,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-21 18:07:03,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
