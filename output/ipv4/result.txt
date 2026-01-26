@@ -17,7 +17,6 @@ CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-广东卫视,http://120.238.94.82:9901/tsfile/live/1009_1.m3u8
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
 
 🌊本地,#genre#
@@ -30,4 +29,4 @@ CCTV-9,http://23.237.228.134/live5/CCTV9.m3u8
 CCTV-14,http://23.237.228.134/live3/CCTV14.m3u8
 
 🕘️更新时间,#genre#
-2026-01-25 18:05:19,http://23.237.228.134/live5/CCTV1.m3u8
+2026-01-26 18:06:51,http://23.237.228.134/live5/CCTV1.m3u8
