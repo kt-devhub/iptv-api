@@ -3,11 +3,11 @@ CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 
 📡卫视,#genre#
-广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
@@ -21,4 +21,4 @@ CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 📺央视其他,#genre#
 
 🕘️更新时间,#genre#
-2026-02-23 18:19:15,http://23.237.228.134/live5/CCTV2.m3u8
+2026-02-24 18:17:59,http://23.237.228.134/live5/CCTV2.m3u8
