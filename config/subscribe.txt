@@ -12,6 +12,9 @@ https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整�
 https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://myernestlu.github.io/zby.txt
+https://epg.pw/test_channels_hong_kong.m3u
+https://raw.githubusercontent.com/joevess/IPTV/6b88def53cb3f45512f200570a6f00e6e801fb4f/m3u/iptv.m3u
 
 # https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 # https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
