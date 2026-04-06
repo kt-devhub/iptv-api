@@ -120,13 +120,15 @@ http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 #EXTINF:-1 tvg-id="12" tvg-name="翡翠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠台.png" group-title="🌊本地",翡翠台
 http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰资讯.png" group-title="🌊本地",凤凰资讯
-http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
-#EXTINF:-1 tvg-id="13" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰资讯.png" group-title="🌊本地",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-id="13" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰资讯.png" group-title="🌊本地",凤凰资讯
 http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰资讯.png" group-title="🌊本地",凤凰资讯
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-id="13" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰资讯.png" group-title="🌊本地",凤凰资讯
+https://cdn6.163189.xyz/live/fhzx/stream.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰资讯.png" group-title="🌊本地",凤凰资讯
+https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📺央视其他",CCTV-5
 http://[2409:8087:74f0:22::4]:6410/270000001111/1110000305/index.m3u8?channel-id=newtv&livemode=4&Contentid=1110000305
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📺央视其他",CCTV-5
@@ -187,5 +189,5 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="📺央视其他",CCTV-14
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-03-30 19:39:51
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-04-07 01:42:29
 http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
